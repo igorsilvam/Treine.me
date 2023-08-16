@@ -14,7 +14,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto Treine me é um sistema que cria treinos customizados para os usuários, ele foi elaborado na aula do programa Explorer da Rocketseat.
 
-- [Página](https://igorsilvamedeiros.github.io/Treine.me/)
+- [Página](https://igorsilvam.github.io/Treine.me/)
 
 ## 🔖 Layout
 
